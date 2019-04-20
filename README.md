@@ -23,11 +23,6 @@ Add the dependency:
 npm i react-native-star-review
 ```
 
-### Expo Version: 
-```ruby
-"react-native-star-review": "WrathChaos/react-native-star-review#expo"
-```
-
 ## Peer Dependencies
 
 ###### IMPORTANT! You need install them.
