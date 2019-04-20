@@ -10,7 +10,7 @@
     "react": "16.8.3",
     "react-native": "0.59.5",
     "react-native-dynamic-vector-icons": "0.0.3",
-    "react-native-star-review": "0.0.1",
+    "react-native-star-review": "0.0.11",
     "react-native-vector-icons": "^6.4.2",
     "react-number-format": "^4.0.7"
   },
