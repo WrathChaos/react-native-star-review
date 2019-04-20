@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { ImageBackground, StyleSheet, View } from "react-native";
-import StarReview from "./lib/src/components/StarReview";
+import StarReview from "react-native-star-review";
 
 export default class App extends Component {
   render() {

@@ -10,7 +10,7 @@ Fully customizable Star Review for React Native.
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 <p align="center">
-<img alt="React Native Star Review" src="https://github.com/WrathChaos/react-native-star-review/blob/master/assets/Screenshots/example.png" width="40%" height="735"/>
+<img alt="React Native Star Review" src="https://github.com/WrathChaos/react-native-star-review/blob/master/assets/Screenshots/example.png" />
 </p>
 
 ## Installation
