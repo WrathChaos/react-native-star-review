@@ -69,17 +69,20 @@ export default class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: "center"
+    justifyContent: "center"
   },
   backgroundStyle: {
     width: "100%",
     height: "100%"
   },
   containerGlue: {
-    top: "30%"
+    top: "30%",
+    alignItems: "center"
   },
   customReviewsStyle: {
     top: 32,
-    flexDirection: "column"
+    alignItems: "center",
+    flexDirection: "column",
+    justifyContent: "center"
   }
 });
