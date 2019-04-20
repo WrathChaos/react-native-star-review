@@ -1,0 +1,31 @@
+{
+  "name": "react-native-star-review",
+  "version": "0.0.1",
+  "description": "Fully customizable Star Review for React Native.",
+  "keywords": [
+    "dynamic",
+    "star",
+    "FreakyCoder",
+    "freakycoder",
+    "kuray",
+    "Kuray",
+    "react",
+    "react-native",
+    "javascript",
+    "ui-lib",
+    "rn"
+  ],
+  "homepage": "https://www.freakycoder.com",
+  "bugs": "https://github.com/WrathChaos/react-native-star-review/issues",
+  "main": "./lib/src/components/StarReview.js",
+  "repository": "git@github.com:WrathChaos/react-native-star-review.git",
+  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 16.x.x",
+    "react-native": ">= 0.55.x",
+    "react-number-format": ">= 4.x.x",
+    "react-native-vector-icons": ">= 6.x.x",
+    "react-native-dynamic-vector-icons": ">= x.x.x"
+  }
+}
