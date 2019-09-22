@@ -66,6 +66,7 @@ You can check the example for the advanced usage
 | reviewsText   |  string   | reviews | change the review's description text                        |
 | starSize      |  number   |   16    | change the star icon's size                                 |
 | starColor     |  string   | #ffa114 | change the star icon's color                                |
+| textColor     |  string   | #757575 | change the text color                                       |
 | iconComponent | component |  Icon   | set your own Icon component instead of dynamic-vector-icons |
 
 
