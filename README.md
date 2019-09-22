@@ -37,6 +37,7 @@ npm i react-native-star-review
 // Expo Version
 "react-native-dynamic-vector-icons": "WrathChaos/react-native-dynamic-vector-icons#expo"
 ```
+
 ## Basic Usage
 
 ```ruby
@@ -59,16 +60,17 @@ You can check the example for the advanced usage
 
 ### Configuration - Props
 
-| Property      |   Type    | Default | Description                                                 |
-| ------------- | :-------: | :-----: | ----------------------------------------------------------- |
-| stars         |  number   |    5    | create stars as many as you want                            |
-| reviews       |  number   |    0    | makes the stars fillable as many as you want                |
-| reviewsText   |  string   | reviews | change the review's description text                        |
-| starSize      |  number   |   16    | change the star icon's size                                 |
-| starColor     |  string   | #ffa114 | change the star icon's color                                |
-| textColor     |  string   | #757575 | change the text color                                       |
-| iconComponent | component |  Icon   | set your own Icon component instead of dynamic-vector-icons |
-
+| Property          |   Type    | Default | Description                                                 |
+| ----------------- | :-------: | :-----: | ----------------------------------------------------------- |
+| stars             |  number   |    5    | create stars as many as you want                            |
+| reviews           |  number   |    0    | makes the stars fillable as many as you want                |
+| reviewsText       |  string   | reviews | change the review's description text                        |
+| starSize          |  number   |   16    | change the star icon's size                                 |
+| starColor         |  string   | #ffa114 | change the star icon's color                                |
+| textColor         |  string   | #757575 | change the text color                                       |
+| iconComponent     | component |  Icon   | set your own Icon component instead of dynamic-vector-icons |
+| enableStars       |  boolean  |  false  | shows the stars as text                                     |
+| enableParentheses |  boolean  |  false  | reviews are shown inside of parentheses                     |
 
 ## Expo Compatibility
 
