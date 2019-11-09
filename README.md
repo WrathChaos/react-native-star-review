@@ -76,6 +76,7 @@ You can check the example for the advanced usage
 | iconComponent     | component |     Icon      | set your own Icon component instead of dynamic-vector-icons |
 | enableStars       |  boolean  |     false     | shows the stars as text                                     |
 | enableParentheses |  boolean  |     false     | reviews are shown inside of parentheses                     |
+| disableReview     |  boolean  |     false     | disable the whole review part                               |
 
 ## Expo Compatibility
 
@@ -97,9 +98,9 @@ Star Review is usable with Expo. You just need to add a peer dependency:
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 ```
 
-### ToDos
+### Future Plans
 
-- [x] LICENSE
+- [x] ~~LICENSE~~
 - [ ] Write an article about the lib on Medium
 
 ## Author

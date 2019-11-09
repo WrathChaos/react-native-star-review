@@ -11,7 +11,7 @@ export default class App extends Component {
           source={require("./assets/MagicMint.png")}
         >
           <View style={styles.containerGlue}>
-            <StarReview />
+            <StarReview disableReview />
             <StarReview ratings={1} stars={5} reviews={1} />
             <StarReview ratings={2} stars={5} reviews={2} />
             <StarReview ratings={3} stars={5} reviews={3} />

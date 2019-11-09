@@ -1,6 +1,6 @@
 {
   "name": "react-native-star-review",
-  "version": "0.0.23",
+  "version": "0.0.3",
   "description": "Fully customizable Star Review for React Native.",
   "keywords": [
     "star",
@@ -16,7 +16,7 @@
   ],
   "homepage": "https://www.freakycoder.com",
   "bugs": "https://github.com/WrathChaos/react-native-star-review/issues",
-  "main": "./lib/src/components/StarReview.js",
+  "main": "./lib/src/StarReview.js",
   "repository": "git@github.com:WrathChaos/react-native-star-review.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
